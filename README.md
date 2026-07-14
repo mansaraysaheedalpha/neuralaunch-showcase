@@ -5,6 +5,8 @@ NeuraLaunch is an AI-powered venture-building platform for founders, especially 
 
 NeuraLaunch is built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui on the frontend, with Prisma and PostgreSQL powering the data layer. It uses NextAuth for authentication, Paddle for billing, Inngest for durable background workflows, Upstash Redis for session state, and Zod for schema validation. The AI layer is built on the Vercel AI SDK with Anthropic Claude, Gemini fallback support, and external research integrations through Tavily and Exa.
 
+> This repository is a portfolio showcase for Event Dynamics. The production source code is maintained in a private repository.
+
 ## Screenshot
 ![NeuraLaunch screenshot](./screenshot.png)
 
